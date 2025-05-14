@@ -105,4 +105,20 @@ pyinstaller --noconfirm --onefile --windowed main.py
 * Do **not** commit `.env` to version control.
 * Use application secrets carefully and rotate periodically.
 
-```
+---
+
+## 🧭 Project Purpose
+
+This tool was built for **office employees using a 3CX phone system** integrated with Microsoft 365, who:
+
+* Have **automatic calendar integration enabled** in 3CX (via Microsoft Graph)
+* Appear **“busy”** in 3CX during any Outlook appointment – even personal or self-created ones
+* Want to remain **available for phone calls** despite having personal calendar events
+
+By converting self-created busy events to **“free”**, users can:
+
+* Keep their calendars intact
+* Avoid call redirection or DND status in 3CX
+* Maintain full control over availability for telephony
+
+---
