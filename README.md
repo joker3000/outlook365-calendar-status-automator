@@ -14,6 +14,14 @@ This Python desktop application allows an administrator to:
 
 ---
 
+## 🖼️ Screenshot of GUI
+
+Here is a preview of the application interface:
+
+![Outlook Free Setter GUI](screenshot.gif)
+
+---
+
 ## 🔧 Requirements
 
 - Python 3.8 or later
