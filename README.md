@@ -1,5 +1,7 @@
 # Outlook Calendar Status Automator
 
+> **Note:** This tool is mainly intended for environments **where Microsoft Teams is not established** as the company-wide tool and ONLY Outlook 365 and 3CX is used instead.
+
 This Python desktop application allows an administrator to:
 
 - Select a user from the Microsoft 365 tenant
@@ -120,5 +122,22 @@ By converting self-created busy events to **“free”**, users can:
 * Keep their calendars intact
 * Avoid call redirection or DND status in 3CX
 * Maintain full control over availability for telephony
+
+---
+
+## ⚠️ Disclaimer
+
+* This software is provided **“as is”** without warranty of any kind, express or implied.
+* The authors and contributors are **not liable** for any damages or data loss resulting from its use.
+* You are responsible for reviewing any calendar changes before applying them.
+* Always back up calendars or test in a sandbox environment before deploying to production.
+
+---
+
+## 🌐 Community & Support
+
+For discussion, questions, and feedback, visit the official thread in the 3CX community:
+
+👉 [3CX Forum: Outlook Calendar Status Automator](https://www.3cx.com/community/threads/outlook-calendar-status-automator.133628/)
 
 ---
